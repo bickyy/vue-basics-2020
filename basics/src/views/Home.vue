@@ -41,8 +41,8 @@ export default {
     },
     logout: function() {
       this.isLoggedIn = false;
-    },
-  },
+    }, 
+  }, 
   created() {},
   mounted() {
     this.changeAnimal();
